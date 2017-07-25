@@ -15,9 +15,9 @@ def mult(arg1, arg2):
     """
     return arg1 * arg2
 
-def squre(arg1):
+def square(arg1):
     """
-    squres two values
+    squares two values
     """
     return arg1 * arg1 
 
